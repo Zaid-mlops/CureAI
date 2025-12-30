@@ -1,0 +1,6 @@
+gemma 3.1b medical chatbot/
+├── app.py                 # Main Flask application
+├── prompt.json            # System prompt for medical advice
+├── requirements.txt       # Python dependencies
+├── README.md              # Project documentation
+└── file structure         # This file - project structure overview
